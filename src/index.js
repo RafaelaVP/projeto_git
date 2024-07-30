@@ -1,4 +1,4 @@
-const { calcularValores } = require('./calculos');
+const { calcularValores } = require('../src/utils/calculos');
 
 console.log('Hello, World!');
 
